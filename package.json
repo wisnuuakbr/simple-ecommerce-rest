@@ -1,28 +1,24 @@
 {
   "name": "e-commerce",
   "version": "1.0.0",
-  "description": "Simple restAPI E-commerce",
+  "description": "Simple restAPI e-commerce",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wisnuuakbr/simple-ecommerce-rest.git"
+    "url": "github.com/wisnuuakbr/simple-ecommerce-rest"
   },
   "keywords": [
-    "javascript",
-    "node",
-    "express",
-    "mongoose",
-    "ecommerce",
     "rest",
-    "api"
+    "api",
+    "ecommerce",
+    "nodejs",
+    "expressjs",
+    "javascript",
+    "mongodb"
   ],
-  "author": "wisnu akbara",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wisnuuakbr/simple-ecommerce-rest/issues"
-  },
-  "homepage": "https://github.com/wisnuuakbr/simple-ecommerce-rest#readme"
+  "author": "wisnuuakbr",
+  "license": "ISC"
 }
