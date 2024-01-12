@@ -1,5 +1,5 @@
 const express = require('express')
-const Item = requre('../models/item')
+const Item = require('../models/item')
 const Auth = require('../middleware/auth')
 
 // initiate the route
@@ -74,7 +74,7 @@ router.delete('/items/:id', Auth, async (req, res) => {
         }
         res.send(deletedItem)
     } catch (error) {
-
+        res.status(400).send(error)
     }
 })
 
