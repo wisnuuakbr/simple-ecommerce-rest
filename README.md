@@ -1,4 +1,4 @@
-# simple-e-commerce-rest
+# simple-Ecommerce-restAPI
 
 Simple Rest API for E-commerce using Javascript
 
