@@ -29,6 +29,12 @@ $ cd simple-ecommerce-rest
 $ npm install
 ```
 
+## Setup environment variables
+
+```bash
+$ cp .env.example .env
+```
+
 ## Running Server
 
 ```bash
