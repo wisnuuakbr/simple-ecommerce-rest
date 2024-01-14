@@ -1,6 +1,6 @@
 # simple-Ecommerce-restAPI
 
-Simple Rest API for E-commerce using Javascript
+Simple RestAPI E-commerce using Express JS and MongoDB
 
 ## Features
 
